@@ -1,2 +1,1 @@
-# Teshi
- educational purposes 
+
