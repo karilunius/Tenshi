@@ -1,0 +1,23 @@
+body{
+    padding: 30px;
+    font-weight: bold;
+    
+}
+
+h1 {
+    color: black;
+    opacity: 0.5;
+}
+span a{
+    padding: 10px;
+    text-align: left;
+    text-decoration: none;
+    font-style: oblique;
+    color: rgb(53, 26, 78);
+    width: 300px;
+    display: block;
+    background-color: rgb(247, 224, 224);
+    font-size: larger;
+
+
+}
