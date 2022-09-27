@@ -1,23 +1,30 @@
-body{
-    padding: 30px;
-    font-weight: bold;
-    
+a:link {
+	text-decoration: none !important;
+	cursor: pointer;
+	color: rgb(53, 26, 78);
+}
+
+body {
+	padding: 30px;
+	font-weight: bold;
 }
 
 h1 {
-    color: black;
-    opacity: 0.5;
+	color: black;
+	opacity: 0.5;
 }
-span a{
-    padding: 10px;
-    text-align: left;
-    text-decoration: none;
-    font-style: oblique;
-    color: rgb(53, 26, 78);
-    width: 300px;
-    display: block;
-    background-color: rgb(247, 224, 224);
-    font-size: larger;
-
-
+div {
+	padding: 18px;
+	text-align: left;
+	font-style: oblique;
+	color: rgb(53, 26, 78);
+	width: 300px;
+	display: block;
+	background-color: rgb(247, 224, 224);
+	font-size: larger;
+	margin: 12px;
+}
+.subtitulos {
+	font-size: medium;
+	margin: 30px;
 }
